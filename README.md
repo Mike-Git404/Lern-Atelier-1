@@ -9,6 +9,6 @@
 
 ## 2. Tag 28.08.2026
 ### Ziele 
-1. [ ] 431 bis und mit Aufgabe 1711
-2. [ ] 319 bis und mit Mission 6
-3. [ ] restliche Zeit am Freifach arbeiten.
+1. [ ] 431 bis und mit Aufgabe 1711 (nicht geschafft, habe das excel nicht verstanden)
+2. [x] 319 bis und mit Mission 6
+4. [x] restliche Zeit am Freifach arbeiten.

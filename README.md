@@ -1,7 +1,7 @@
 # Lern-Atelier-1
 
 ### Ziel erste Lernperiode: 
-Ich möchte ein Simples Spiel mit Python programmieren können.
+Ich möchte ein Simples Spiel mit Python programmieren können, welches mir als Grundlage für ein Incremental Game dient. Mein Ziel ist es, das Game bis Ende 1. Schuljahr fertigzustellen. 
 
 ## 1. Tag 21.08.2026
 ### Ziele

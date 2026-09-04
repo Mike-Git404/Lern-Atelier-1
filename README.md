@@ -19,6 +19,6 @@ Ich möchte ein Simples Spiel mit Python programmieren können.
 
 ## 3. Tag 04.09.2026
 ### Ziele
-1. [ ] Die Aufgabe 1711 im Modul 431 fertig lösen.
+1. [x] Die Aufgabe 1711 im Modul 431 fertig lösen.
 2. [ ] Im Freifach Python weiter arbeiten.
 3. [ ] erste Ideensammlung für mein Spiel.

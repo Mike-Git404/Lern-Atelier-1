@@ -27,3 +27,8 @@ Ich möchte ein Simples Spiel mit Python programmieren können, welches mir als 
 1.  [x] Alle Expertenaufgaben im Modul 431 bis 1716 fertig lösen.
 2.  [x] Grundidee und PAP eines Skill Tree Prgramms erstellen.
 3.  [x] Falls noch Zeit, mich mit der Engine Pygame befassen.
+
+## 5. Tag 18.09.2026
+### Ziele
+1. [ ] Am Freifach arbeiten
+2. [ ] Falls ich bis zu Funktionen im Freifach komme, an meinem Skill Tree Programm weiter arbeiten

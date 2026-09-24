@@ -30,5 +30,10 @@ Ich möchte ein Simples Spiel mit Python programmieren können, welches mir als 
 
 ## 5. Tag 18.09.2026
 ### Ziele
-1. [ ] Am Freifach arbeiten
+1. [x] Am Freifach arbeiten
 2. [ ] Falls ich bis zu Funktionen im Freifach komme, an meinem Skill Tree Programm weiter arbeiten
+
+## 6. Tag 25.09.2026
+### Ziele
+1. [ ] im Modul 431 bis Aufgabe 1723 fertig werden.
+2. [ ] Die übrige Zeit am Freifach arbeiten.

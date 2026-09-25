@@ -36,4 +36,4 @@ Ich möchte ein Simples Spiel mit Python programmieren können, welches mir als 
 ## 6. Tag 25.09.2026
 ### Ziele
 1. [ ] im Modul 431 bis Aufgabe 1723 fertig werden.
-2. [ ] Die übrige Zeit am Freifach arbeiten.
+2. [ ] Am Freifach arbeiten
